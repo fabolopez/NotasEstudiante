@@ -1,0 +1,12 @@
+C:\Users\Dark\source\repos\EstudianteNotas\EstudianteNotas\bin\Debug\EstudianteNotas.exe.config
+C:\Users\Dark\source\repos\EstudianteNotas\EstudianteNotas\bin\Debug\EstudianteNotas.exe
+C:\Users\Dark\source\repos\EstudianteNotas\EstudianteNotas\bin\Debug\EstudianteNotas.pdb
+C:\Users\Dark\source\repos\EstudianteNotas\EstudianteNotas\bin\Debug\EstudianteNotas.xml
+C:\Users\Dark\source\repos\EstudianteNotas\EstudianteNotas\obj\Debug\EstudianteNotas.Form1.resources
+C:\Users\Dark\source\repos\EstudianteNotas\EstudianteNotas\obj\Debug\EstudianteNotas.Resources.resources
+C:\Users\Dark\source\repos\EstudianteNotas\EstudianteNotas\obj\Debug\EstudianteNotas.vbproj.GenerateResource.cache
+C:\Users\Dark\source\repos\EstudianteNotas\EstudianteNotas\obj\Debug\EstudianteNotas.vbproj.CoreCompileInputs.cache
+C:\Users\Dark\source\repos\EstudianteNotas\EstudianteNotas\obj\Debug\EstudianteNotas.exe
+C:\Users\Dark\source\repos\EstudianteNotas\EstudianteNotas\obj\Debug\EstudianteNotas.xml
+C:\Users\Dark\source\repos\EstudianteNotas\EstudianteNotas\obj\Debug\EstudianteNotas.pdb
+C:\Users\Dark\source\repos\EstudianteNotas\EstudianteNotas\obj\Debug\EstudianteNotas.vbproj.AssemblyReference.cache
